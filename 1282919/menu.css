@@ -1,0 +1,11 @@
+.uu{
+    float: left;
+    height: 500px;
+    width: 200px;
+    background-color: antiquewhite;
+    margin-right: 5px;
+}
+.rr{
+    float: left;
+    background-color: aquamarine;
+}
